@@ -3,7 +3,7 @@
 "spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/quanheji.jar",
 
 //直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=YUhSMGNEb3ZMMjFoYjNscGJtZHphR2t1WTJNdmRIWmliM2d2ZW1ocFltOHZNUzUwZUhRPQ"]}]}],
+"lives":[{"name":"小白TV","type":0,"url":"https://agit.ai/1058263215/ZB/raw/branch/master/XiaoBaiTVZBY.txt"}],
 
 "sites":[
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
