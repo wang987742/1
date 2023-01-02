@@ -8,10 +8,16 @@
           "name": "💒家庭FASTGIT",
           "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json"
           },
-          { "name":"道长的js0自用接口",
+          {
+              "name": "quanheji",
+              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/quanheji.json"
+         },
+          { 
+              "name":"道长的js0自用接口",
              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/JS/js0.json"
           },
-          {"name": "吾爱",
+          {
+              "name": "吾爱",
            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/wuai.json"
           },                
           {
@@ -22,11 +28,13 @@
           "name": " 🛣BD线路",
            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd"
         },
-        { "name": "唐姐",
-          "url" : "https://agit.ai/1058263215/TVBox/raw/branch/master/tangs.json"
+        { 
+            "name": "唐姐",
+            "url" : "https://agit.ai/1058263215/TVBox/raw/branch/master/tangs.json"
         },
-        {"name": "晓锋",
-         "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/JS/js.json"
+        {
+            "name": "晓锋",
+            "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/JS/js.json"
         },
         {
            "name": " 🛣星辰影视",
@@ -42,7 +50,7 @@
           },
           {
             "name": " 🥏77",
-           "url": "https://dlj2.cn/77"
+            "url": "https://dlj2.cn/77"
          },
           {
               "name": " 😎喵TV",
