@@ -1819,5 +1819,7 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080/",
-  "spider": "https://wp.wangshi520.com/down.php/fab2cbab0dcc22ca00ea5f654645a214.jar"
+  //spider哪个能看用哪个
+  "spider": "https://wp.wangshi520.com/down.php/3c40dbcb8082364e1c416ebc3e219e6a.jar"
+  //"spider": "https://wp.wangshi520.com/down.php/fab2cbab0dcc22ca00ea5f654645a214.jar"
 }
