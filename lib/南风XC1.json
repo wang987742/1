@@ -7,12 +7,12 @@
     "spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/jar/xzy1029.jar",
 	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DF9E39F198F5C88289BC056700447A51",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [{
+	"lives": [/*{
 		    "name": "直播",
 		    "type": 0,
 		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-		    },{
+		    },*/{
 		    "group": "redirect",
 		    "channels": [{
 			    "name": "live",
