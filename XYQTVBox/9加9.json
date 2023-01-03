@@ -1,5 +1,5 @@
 {
-  "spider": "clan://XTQTVBox/jar/xzy1029.jar",
+  "spider": "https://agit.ai/1058263215/TVBox/raw/branch/master/XTQTVBox/jar/xzy1029.jar",
   "sites": [
 {"key": "Kunyu77","name": "💋酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xb_快看", "name": "🎴快看影视", "type": 3,"api": "csp_XBiu", "searchable": 1,"quickSearch": 1, "filterable": 0,"ext": "http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"},
