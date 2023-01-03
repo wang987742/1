@@ -23,6 +23,28 @@
           {
               "name": "太阳1",
               "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/太阳1.json"
+          }          { 
+              "name": "ZC1-3_1",
+             "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/ZC1-3_1.json"
+          },
+          {
+              "name": "ZC1-3_2",
+              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/ZC1-3_2.json"
+          },
+          {
+              "name": "FL1-3",
+              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/FL1-3.json"
+          { 
+              "name": "ZC1-3_1",
+             "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/ZC1-3_1.json"
+          },
+          {
+              "name": "ZC1-3_2",
+              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/ZC1-3_2.json"
+          },
+          {
+              "name": "FL1-3",
+              "url": "https://agit.ai/1058263215/TVBox/raw/branch/master/lib/FL1-3.json"
           },
           {
               "name": "云星家庭1",
