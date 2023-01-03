@@ -1,7 +1,7 @@
 
 {
 "wallpaper":"http://tv.nxog.top/api/api/t",
-"spider":"",
+"spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/jar/xzy1029.jar",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vdHY="]}]}],
 "sites": [
 
