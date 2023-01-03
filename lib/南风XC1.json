@@ -7,19 +7,10 @@
     "spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/jar/xzy1029.jar",
 	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DF9E39F198F5C88289BC056700447A51",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"lives": [/*{
-		    "name": "直播",
-		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-		    },*/{
-		    "group": "redirect",
-		    "channels": [{
-			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="]
-		    }],
-		    "epg":"http://epg.51zmt.top:8000/api/diyp/"
-	    }],
+	
+	
+	"lives":[{"name":"BaiMao","type":0,"url":"https://agit.ai/1058263215/ZB/raw/branch/master/BaiMaoTV.txt"}],
+
 
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
