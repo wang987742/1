@@ -13,16 +13,14 @@
       "quickSearch": 1,
       "filterable": 1
 },
-
-
-   {   "key": "zhibo2",
+{    "key": "zhibo2",
       "name": "🎪4K源 ",
       "type": 4,
       "api": "http://120.53.102.254/live?url=http://52bsj.vip:98/1315",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+},
 {
       "key": "zhibo3",
       "name": "🎤 万首MV歌曲 ",
@@ -31,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+},
 {
       "key": "zhibo4",
       "name": "🇨🇳中华直播",
@@ -40,9 +38,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-
- {
+},
+{
       "key": "zhibo5",
       "name": "🌴金秋直播",
       "type": 4,
@@ -50,7 +47,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, 
+}, 
 {
       "key": "zhibo6",
       "name": "🎹  4K台 ",
@@ -59,8 +56,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-        {
+},
+{
       "key": "zhibo7",
       "name": "🏆世界杯高清",
       "type": 4,
@@ -68,16 +65,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-       },
-  {    "key": "zhibo8",
+},
+{    "key": "zhibo8",
       "name": "⚽️世界杯秒播",
       "type": 4,
       "api": "http://120.53.102.254/live2?url=http://52bsj.vip:81/api/v3/file/get/64511/sjb.txt?sign=KcE_IABdApik0FbNxT4I34JkDMqJCU6r1ZXIKIt7P_I%3D%3A0",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-       },
-    {
+},
+{
       "key": "zhibo9",
       "name": "🈴吉祥直播",
       "type": 4,
@@ -86,8 +83,7 @@
       "quickSearch": 1,
       "filterable": 1
 },
-  
-	{
+{
       "key": "zhibo10",
       "name": "🍭潇潇洒洒",
       "type": 4,
@@ -113,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+},
 {
       "key": "zhibo13",
       "name": "🌙月光直播",
