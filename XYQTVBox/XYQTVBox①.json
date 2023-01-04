@@ -46,7 +46,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/1058263215/TVBox/raw/branch/master/XYQTVBox/Alist.json"
         },
-        /*{
+        {
             "key": "csp_9加9",
             "name": "66",
             "type": 3,
@@ -56,7 +56,7 @@
             "filterable": 0,
             "ext": "https://agit.ai/1058263215/TVBox/raw/branch/master/XYQTVBox/9加9.json",
             "jar":"https://agit.ai/1058263215/TVBox/raw/branch/master/XYQTVBox/jar/xzy1029.jar"
-        },*/
+        },
         /*{
             "key": "csp_api",
             "name": "多线路",
