@@ -1,0 +1,18 @@
+{
+  "storeHouse": [{
+    "sourceName": "1号单仓库",
+    "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/A.txt"
+  }, {
+    "sourceName": "2号单仓库",
+    "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/FL-ZJ-DXL.json"
+  }, {
+    "sourceName": "3号单仓库",
+    "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/NBDC.json"
+  }, {
+    "sourceName": "4号单仓库",
+    "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/ZJ-DXL.json"
+  }, {
+    "sourceName": "5号单仓库",
+    "sourceUrl": "https://agit.ai/1058263215/TVBox/raw/branch/master/duochang3.json"
+  }]
+}
