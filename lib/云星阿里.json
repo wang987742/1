@@ -29,13 +29,13 @@
 		}]
 	}],
 	"sites": [ 
-{"key" : "drpy_T4聚合","name" : "🌏影视推荐(首页)","type" : 3,"api":"clan://TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
+{"key" : "drpy_T4聚合","name" : "🌏影视推荐(首页)","type" : 3,"api":"https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/JS/lib/drpy2.min.js","ext":"clan://TVBox/JS/js/drpy.js"},
 {"key":"csp_GitCafe","name":"📜小纸条〔SP〕Q群：716385048","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/ali刷新.jar"},
-{"key":"AliPS","name":"📀喵盘搜️(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "clan://TVBox/jar/alitoken.txt"},
-{"key":"FindZY","name":"🔍找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "clan://TVBox/jar/alitoken.txt","jar":"https://share.nite07.com/api/v3/file/source/35031/%E4%BF%AE%E5%A4%8D%E6%89%BE%E8%B5%84%E6%BA%90.jar?sign=HGKKD5R36WesDj5146oyNbDrw6HDjHupTvNanye2Y4k%3D%3A0"},
-{"key":"Yisou","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/jar/alitoken.txt"},
+{"key":"AliPS","name":"📀喵盘搜️(仅支持搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"},
+{"key":"FindZY","name":"🔍找资源（仅支持搜索）","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt","jar":"https://share.nite07.com/api/v3/file/source/35031/%E4%BF%AE%E5%A4%8D%E6%89%BE%E8%B5%84%E6%BA%90.jar?sign=HGKKD5R36WesDj5146oyNbDrw6HDjHupTvNanye2Y4k%3D%3A0"},
+{"key":"Yisou","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"},
 {"key":"Upyunso","name":"☁️up搜(仅搜索）","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key": "push_agent","name":"🍭推送〔阿里推送/磁力推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "clan://TVBox/jar/alitoken.txt"},
+{"key": "push_agent","name":"🍭推送〔阿里推送/磁力推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"},
 
 
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
