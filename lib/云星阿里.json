@@ -14,7 +14,7 @@
 
 
 {
-"spider":"clan://TVBox/jar/xzy1029.jar",
+"spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/xzy1029.jar",
 
 
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]}]}],
