@@ -400,7 +400,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "clan://TVBox/jar/alitoken.txt"
+            "ext" : "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"
         },
             {
             "key" : "FindZY",
@@ -410,7 +410,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "clan://TVBox/jar/alitoken.txt"
+            "ext" : "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"
         },
             {
             "key" : "AliPS",
@@ -420,7 +420,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "clan://TVBox/jar/alitoken.txt"
+            "ext" : "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"
         },
             {
             "key" : "csp_Yiso",
@@ -430,7 +430,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 0,
-            "ext" : "clan://TVBox/jar/alitoken.txt"
+            "ext" : "https://agit.ai/1058263215/TVBox/raw/branch/master/TVBox/jar/alitoken.txt"
         },
             {
             "key" : "push_agent",
