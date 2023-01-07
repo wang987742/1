@@ -79,7 +79,7 @@
         },
         { 
             "key": "csp_XBPQ_007影视",
-            "name": "007影视",
+            "name": "007影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
