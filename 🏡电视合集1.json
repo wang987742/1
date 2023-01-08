@@ -159,7 +159,7 @@
       "key": "zhibo18",
       "name": "MaoTouYingTV",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://agit.ai/1058263215/ZB/src/branch/master/MaoTouYingTVJK.txt",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/1058263215/ZB/raw/branch/master/MaoTouYingTVJK.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
