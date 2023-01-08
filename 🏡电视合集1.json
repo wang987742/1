@@ -148,9 +148,9 @@
     },
     {
       "key": "zhibo17",
-      "name": "福利直播源",
+      "name": "XiaoBaiTVZBY",
       "type": 4,
-      "api": "http://120.53.102.254/live?url=https://agit.ai/ystvy/yydsy/raw/branch/master/zy/tv/18.txt",
+      "api": "http://120.53.102.254/live?url=https://agit.ai/1058263215/ZB/raw/branch/master/XiaoBaiTVZBY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
