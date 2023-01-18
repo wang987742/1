@@ -1,0 +1,40 @@
+{
+  "classes": [
+    {
+      "type_name": "吾爱评测整理",
+      "type_id": "吾爱评测"
+    },
+    {
+      "type_name": "春节",
+      "type_id": "春节"
+    },
+    {
+      "type_name": "春节习俗",
+      "type_id": "春节习俗"
+    },
+    {
+      "type_name": "春节美食",
+      "type_id": "春节美食"
+    },
+    {
+      "type_name": "春节歌曲",
+      "type_id": "春节歌曲"
+    },
+    {
+      "type_name": "春节传统",
+      "type_id": "春节传统"
+    },
+    {
+      "type_name": "春节春联",
+      "type_id": "春节春联"
+    },
+    {
+      "type_name": "春节故事",
+      "type_id": "春节故事"
+    },
+    {
+      "type_name": "春节含义",
+      "type_id": "春节含义"
+    }
+    ]
+}
