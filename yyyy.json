@@ -2,8 +2,10 @@
 
 {
 ## spider
-//"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/XBiubiuLA4.jar",
+
+
+"spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/MaooXB2/XBiubiuLA4.jar"
+//"spider":"https://agit.ai/1058263215/TVBox/raw/branch/master/MaooXB2/XBiubiuLA3.jar"
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
